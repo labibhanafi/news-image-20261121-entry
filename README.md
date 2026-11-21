@@ -1,8 +1,8 @@
 # The World in One Day — Saturday 21 November 2026
 
-[![Competition](https://img.shields.io/badge/make.fun-news--image--20261121-blue)](https://make.fun/c/news-image-20261121)
-[![Prize](https://img.shields.io/badge/prize-%24100%20total-gold)](https://make.fun/c/news-image-20261121)
-[![Deadline](https://img.shields.io/badge/deadline-23%20Nov%202026%2000%3A00%20UTC-red)](https://make.fun/c/news-image-20261121)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/labibhanafi/news-image-20261121-entry/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/labibhanafi/news-image-20261121-entry/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A newspaper-style front page summing up the world's news of **Saturday 21 November 2026** in one image — an entry for the [make.fun news-image-20261121 competition](https://make.fun/c/news-image-20261121) ($100 total, 1st $20, top 50 paid; free entry).
 
